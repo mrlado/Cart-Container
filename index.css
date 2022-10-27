@@ -1,0 +1,25 @@
+.CardContainer{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.wrapper{
+    position: relative;
+    width: 335px;
+    height: 400px;
+    border-radius: 25px;
+    padding: 20px 30px 30px 30px;
+    overflow: hidden;
+    background-image: url(https://theimgstudio.com/wp-content/uploads/2021/01/right-mobilesadf-asdfasfaRecovered-Recovered.png);
+background-repeat: no-repeat;
+background-size:contain;
+    box-shadow: inset -20px 20px 20px 5px rgb(216, 213, 215, 0.50),
+                inset 10px -20px 20px 0px rgb(216, 213, 215,0.5),
+                inset 0px 0px 20px 0px rgb(136, 130, 133, 0.5),
+                      -15px 15px 20px 0px rgb(0,0,0,0.52),
+                      0px 0px 10px 0px rgb(0,0,0,0.25);
+                    }
